@@ -9,7 +9,7 @@ This repository includes the references used for the presentation "From Excel to
 5. Andy Piazza - https://medium.com/@andy.c.piazza/an-analysts-need-for-a-threat-intelligence-platform-43f9258ac22d
 6. Rick Holland - Threat Intelligence Is Like Three Day Potty Training - https://www.slideshare.net/cisoplatform7/cxo-t08rthreatintelligenceislikethreedaypottytraining
 7. European Commission - Open platform and tools to facilitate the collaboration among Computer Security Incident Response Teams - https://ec.europa.eu/digital-single-market/en/news/open-platform-and-tools-facilitate-collaboration-among-computer-security-incident-response
-8. Enriching Threat Intelligence Platforms Capabilities - http://www.di.fc.ul.pt/~imedeiros/papers/Secrypt2019_TEPT.pdf
+8. Secrypt2019 - Mario Faiella, Gustavo Gonzalez-Granadillo, Iberia Medeiros, Rui Azevedo , and Susana Gonzalez-Zarzosa - Enriching Threat Intelligence Platforms Capabilities - http://www.di.fc.ul.pt/~imedeiros/papers/Secrypt2019_TEPT.pdf
 9. C. Sauerwein, C. Sillaber, A. Mussmann and R. Breu- Threat Intelligence Sharing Platforms: An Exploratory Study of Software Vendors and Research Perspectives - https://wi2017.ch/images/wi2017-0188.pdf
 10. O. Serrano, L. Dandurand and S. Brown - On the design of a cyber security data sharing system - https://dl.acm.org/doi/10.1145/2663876.2663882
 11. C. Sillaber, C. Sauerwein, A. Mussmann and R. Breu, - Data Quality Challenges and Future Research Directions in Threat Intelligence Sharing Practice - https://dl.acm.org/doi/10.1145/2994539.2994546
