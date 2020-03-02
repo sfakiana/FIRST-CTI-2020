@@ -20,3 +20,4 @@ This repository includes the references used for the presentation "From Excel to
 16. Lockheed Martin - Practical Steps To Securing Process Control Networks - https://docplayer.net/9025143-Practical-steps-to-securing-process-control-networks.html
 17. FireEye - Excelerating Analysis – Tips and Tricks to Analyze Data with Microsoft Excel - https://www.fireeye.com/blog/threat-research/2019/12/tips-and-tricks-to-analyze-data-with-microsoft-excel.html
 18. SANS CTI Summit 2020 - Andreas Sfakianakis - Stop Tilting at Windmills: Three Key Lessons that CTI Teams Should Learn from the Past - https://www.sans.org/cyber-security-summit/archives/file/summit_archive_1579635728.pdf
+19. FIRST CTI 2020 - Xander Bouwman - Assessing Value. Beyond Indicator Quality - https://www.first.org/events/symposium/zurich2020/program#pAssessing-Value-Beyond-Indicator-Quality 
